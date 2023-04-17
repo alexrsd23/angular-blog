@@ -1,0 +1,17 @@
+.container__menu-title{
+    display: flex;
+    border-top: 1px solid #c6c6c6;
+    border-bottom: 1px solid #c6c6c6;
+    justify-content: center;
+    align-items: center
+}
+
+img{
+    width: 10%;
+    height: 10%;
+}
+h1{
+    color: rgb(113, 238, 255);
+    font-family: 'segoe UI';
+    font-size: 8em;
+}

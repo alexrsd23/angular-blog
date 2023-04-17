@@ -1,0 +1,48 @@
+.conatainer__big-card{
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    color: #00fff2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo__big-card{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+}
+
+.information__big-card{
+    color: #858585;
+    display: flex;
+    margin-top: 1em;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+.information__big-card span:last-child{
+    margin-left: 5em;
+}
+
+h3{
+    margin: .4em 0;
+    font-size: 2.3em;
+    color: #e2bb3c;
+}
+
+.footer__big-card{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer__big-card a{
+    text-decoration: none;
+    border: 1px solid aqua;
+    padding: .5em 1em;
+    color: black;
+    background: rgb(43, 226, 233);
+    border-radius: 5%;
+}
